@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "username": "cxzczx",
+      "fullName": null,
+      "password": "U2FsdGVkX19M3vG6Q28OsN2tWSnicgf2BXRnWjwxUDM=",
+      "fullname": "xzczx",
+      "id": 1
+    },
+    {
+      "username": "sadsadas",
+      "fullName": null,
+      "password": "U2FsdGVkX18/a55KV7nnjLyV/FoViZ3WKJbpB19zQ7w=",
+      "fullname": "asadsad",
+      "id": 2
+    },
+    {
+      "username": "ugur",
+      "fullName": null,
+      "password": "U2FsdGVkX1/O/ygQ8EwqyOrecaVO2oM8c9wcP/VyZHo=",
+      "fullname": "ugur",
+      "id": 3
+    },
+    {
+      "username": "ali",
+      "fullName": null,
+      "password": "2ec57c8d873e1765ac0c37ef8fcebb858cd62c4e",
+      "fullname": "ali",
+      "id": 4
+    }
+  ],
+  "bookmarks": [],
+  "categories": []
+}
